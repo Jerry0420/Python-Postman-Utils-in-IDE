@@ -1,6 +1,6 @@
 # Python-Postman-Utils-in-IDE
 
-使用 Django/Flask...等 Python 後端框架開發 Restful API 時，可直接在 IDE 內測試 Restful API 的工具，如同 Postman。
+使用 Django/Flask...等 Python 後端框架開發 Restful API 時，可直接在 IDE 內測試 Restful API 的工具，如同 Postman，但又不需在 IDE 與 Postman 間進行切換。
 * 以下以 Pycharm, Django 為範例
 
 <a href="https://github.com/Jerry0420/Utils-for-Python-and-Django" title="Title">
