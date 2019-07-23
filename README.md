@@ -29,3 +29,5 @@ route 執行完後，會在 console 內跑出類似以下的結果，可看到�
 '-----------Finished App_A1.route_A101_GET_JSON()\n in 0.0064 secs-----------'
 {'birth_date': 198475857, 'mobile': '0980888888', 'name': 'jerry wang'}
 ```
+
+![avatar](https://raw.githubusercontent.com/Jerry0420/Python-Postman-Utils-in-IDE/master/%E4%BD%BF%E7%94%A8%E7%95%AB%E9%9D%A2.png)
